@@ -12,7 +12,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 MATRIXX_BUILD_TYPE := Official
 MATRIXX_MAINTAINER := EinarG.
 MATRIXX_CHIPSET := GS101
-MATRIXX_BATTERY := 4614mAh
+MATRIXX_BATTERY := 4410mAh
 MATRIXX_DISPLAY := 1080x2400
 
 # Matrixx Flags
