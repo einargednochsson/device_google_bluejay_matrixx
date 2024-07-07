@@ -7,6 +7,9 @@
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-lineage
 
+# Scudo
+PRODUCT_USE_SCUDO := true
+
 # ANGLE - Almost Native Graphics Layer Engine
 PRODUCT_PACKAGES += \
     ANGLE
